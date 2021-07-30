@@ -2,6 +2,12 @@ body {
     color: darkgrey;
     background-color: lightcyan;
 }
-h1 {color: darkslategrey; background-color: lightcyan}
-h2 {color: slategrey;}
+h1{
+    color: darkslategrey; background-color: lightcyan
+    font-family: 'Open Sans', sans-serif;
+}
+h2 {
+    color: slategrey;
+    font-family: 'Open Sans', sans-serif;
+}
 a {color: slategrey;}
