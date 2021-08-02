@@ -10,4 +10,9 @@ h2 {
     color: slategrey;
     font-family: 'Open Sans', sans-serif;
 }
+nav {background-color: lightskyblue;}
+
+nav a {color: mediumblue;}
+
+nav a:hover {background-color: slategrey;}
 a {color: slategrey;}
