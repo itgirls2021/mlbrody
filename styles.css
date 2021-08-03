@@ -10,7 +10,11 @@ h2 {
     color: slategrey;
     font-family: 'Open Sans', sans-serif;
 }
-nav {background-color: lightskyblue;}
+nav {
+    padding: 10px;
+    margin-bottom: 30px;
+    background-color: lightskyblue;
+}
 
 nav a {color: mediumblue;}
 
